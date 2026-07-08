@@ -1,0 +1,4 @@
+google-api-python-client
+python-dotenv
+
+https://youtu.be/fWvj1_et26o?si=f6JB2P6nt6-9h7Sg
